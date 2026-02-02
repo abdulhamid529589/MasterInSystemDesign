@@ -1,5 +1,7 @@
 # Software Architecture & System Design Guide
 
+https://youtube.com/playlist?list=PL_c9BZzLwBRLSs6x50D5WIH76VCUxJs9E&si=MlpDlS5NX3P1JzVH
+
 ## Introduction
 
 This comprehensive guide covers everything you need to know to start developing software systems. You'll learn how to design the backend of websites and applications, and understand how different components work together to create scalable, maintainable systems.
